@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/handler_sendmessage" />
+            <option value="$PROJECT_DIR$/handlertest" />
+            <option value="$PROJECT_DIR$/handlertest_post" />
+            <option value="$PROJECT_DIR$/listviewtest20180813" />
+            <option value="$PROJECT_DIR$/systemappinfo" />
+            <option value="$PROJECT_DIR$/systeminfo" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

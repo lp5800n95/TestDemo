@@ -1,0 +1,1 @@
+include ':app', ':listviewtest20180813', ':systemappinfo', ':systeminfo', ':handlertest', ':handlertest_post', ':handler_sendmessage'
